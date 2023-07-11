@@ -1,11 +1,11 @@
 <h1 align="center">Oi, Sou o João Fronza</h1>
 <h3 align="center">Developer Full-Stack Junior</h3>
 
-- 🌱 Atualmente estou aprendendo **React, TypeScript, Tailwind, Node.js and PostgreSQL. e futuramente me aperfeiçoar com mobile com React native**
+- 🌱 Atualmente estou aprendendo: **React, TypeScript, Tailwind, Node.js and PostgreSQL. e futuramente me aperfeiçoar com mobile com React native**
 
-- 💬 Sobre mim **Desenvolvedor Full Stack Júnior, com paixão pela criação de soluções tecnológicas. Minhas habilidades técnicas são em desenvolvimento web, front-end e back-end. Sou estudioso autodidata sobre novas tecnologias e tendências do setor de TI, com uma mentalidade de aprendizado constante, buscando sempre expandir meu conhecimento e práticas de desenvolvimento.**
+- 💬 Sobre mim: **Desenvolvedor Full Stack Júnior, com paixão pela criação de soluções tecnológicas. Minhas habilidades técnicas são em desenvolvimento web, front-end e back-end. Sou estudioso autodidata sobre novas tecnologias e tendências do setor de TI, com uma mentalidade de aprendizado constante, buscando sempre expandir meu conhecimento e práticas de desenvolvimento.**
 
-- 📫 Onde me encontrar **joaofronza14@gmail.com**
+- 📫 Onde me encontrar: **joaofronza14@gmail.com**
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
